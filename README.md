@@ -15,3 +15,4 @@ Welcome to my GitHub! 🌌
 ✨ Only in the shutdown, do we truly dare to dream.
 
 🚀 Join me as I navigate the enchanting realm of bytes and beliefs—where every line of code is a verse in the epic of creation.
+the projects i plan on doing: a pcb business card, binary watch(with the name kibou) and a handheld computer which can emulate retro computers
