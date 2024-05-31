@@ -1,3 +1,14 @@
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 Welcome to my GitHub! 🌌
 
 👋 Hi, I'm a teen passionate about the magic of midnight and the mysteries of computing. I love delving into CPU architecture, tinkering with circuits, and bringing ideas to life through drawing and animation. Programming is not just a skill for me—it's a playground where I experiment and innovate.
