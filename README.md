@@ -1,18 +1,19 @@
-<div style="border: 2px solid black; padding: 20px; background-color: #f9f9f9;">
-  <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://i0.wp.com/media1.giphy.com/media/fUpvkRuLKE4xMBJLvH/200.gif" alt="Gif 1" style="margin: 0 10px;">
-  </div>
+<div style="border: 2px solid black; padding: 20px; background-color: #f9f9f9; text-align: center;">
+  <img src="https://i0.wp.com/media1.giphy.com/media/fUpvkRuLKE4xMBJLvH/200.gif" alt="Gif 1">
 
   <h1>BLUE_CLOUDS</h1>
 
-  <p>👋 hello,I'm a teenager who loves tinkering with electronics,ranging froom delving into cup-architecture to making a custom game engine. this github page mainly covers my progress in this dream of a world.</p>
+  <p>👋 Hello, I'm a teenager who loves tinkering with electronics, ranging from delving into CPU architecture to making a custom game engine. This GitHub page mainly covers my progress in this dream of a world.</p>
 
   <hr>
 
-  <p>🌙 In the digital silence of night, where dreams and data blur,<br>
-  💻 Love courses through our circuits, a software we can't deter.<br>
-  🌟 It lights our souls like screens, then leaves us in the dark,<br>
-  ❤️ A program running on a loop, in binary beats our heart.</p>
+  <h2>I'm currently learning:</h2>
+  <ul style="list-style: none; padding: 0;">
+    <li>Assembly</li>
+    <li>Java</li>
+    <li>C++</li>
+    <li>C</li>
+  </ul>
 
   <hr>
 
@@ -28,7 +29,7 @@
   <p>🚀 Join me as I navigate the enchanting realm of bytes and beliefs—where every line of code is a verse in the epic of creation.</p>
 
   <h2>Projects</h2>
-  <ul>
+  <ul style="list-style: none; padding: 0;">
     <li><b>PCB Business Card</b></li>
     <li><b>Binary Watch (Kibou)</b></li>
     <li><b>Handheld Computer Emulating Retro Computers</b></li>
