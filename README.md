@@ -1,5 +1,5 @@
 <div style="border: 2px solid black; padding: 20px; background-color: #f9f9f9; text-align: center;">
-  <img src="https://i0.wp.com/media1.giphy.com/media/fUpvkRuLKE4xMBJLvH/200.gif" alt="Gif 1">
+  <img src="https://i0.wp.com/media1.giphy.com/media/fUpvkRuLKE4xMBJLvH/200.gif" alt="Gif 1" style="display: block; margin: 0 auto;">
 
   <h1>BLUE_CLOUDS</h1>
 
@@ -28,7 +28,7 @@
 
   <p>🚀 Join me as I navigate the enchanting realm of bytes and beliefs—where every line of code is a verse in the epic of creation.</p>
 
-  <h2>Projects</h2>
+  <h2>Projects i plan on doing:</h2>
   <ul style="list-style: none; padding: 0;">
     <li><b>PCB Business Card</b></li>
     <li><b>Binary Watch (Kibou)</b></li>
