@@ -13,20 +13,20 @@
     <li>Java</li>
     <li>C++</li>
     <li>C</li>
+    <li>CAD</li>
   </ul>
 
   <hr>
 
-  <p>🔍 Exploring the vast universe of code, I believe every click in my projects is a step towards destiny. Here, you'll find my experiments, my dreams downloaded at midnight, fleeting yet profound. Each project is a piece of my journey, a part of the dream I dare to live out loud.</p>
+  <p>i work in the nights,for i love the nights. in nights i can do my projects,for night i'm alive,i dream;with the clouds</p>
 
-  <p>👾 Choice but an illusion, a dropdown menu vast,<br>
-  🛠 Yet every click's predestined, in the code of fate it's cast.<br>
-  💤 Dreams download at midnight, fleeting as they seem,<br>
-  ✨ Only in the shutdown, do we truly dare to dream.</p>
+  <p><h2>the projects i have done</h2>
+  <ul style="list-style: none; padding: 0;">
+    <li>clouds-hub(a usb hub)</li>
+  </ul>
+  </p>
 
   <hr>
-
-  <p>🚀 Join me as I navigate the enchanting realm of bytes and beliefs—where every line of code is a verse in the epic of creation.</p>
 
   <h2>Projects i plan on doing:</h2>
   <ul style="list-style: none; padding: 0;">
@@ -34,4 +34,7 @@
     <li><b>Binary Watch (Kibou)</b></li>
     <li><b>Handheld Computer Emulating Retro Computers</b></li>
   </ul>
+  <p>a music for thee,to join my journy
+  </p>
+  <p>🚀 Join me as I navigate the enchanting realm of bytes and beliefs—where every line of code is a verse in the epic of creation.</p>
 </div>
