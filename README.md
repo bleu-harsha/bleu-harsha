@@ -9,7 +9,7 @@
   <hr style="border: 1px solid #00bfff;">
 
   <p>
-    I work in the nights, for I love the nights. At night I can do my projects, for at night I'm alive, I dream; with the clouds.<br>
+   actual about me:<br>
     <ul style="list-style: none; padding: 0;">
     <li>classic <b>INFP-T</li></b>
    <li>a random teenager from bengaluru,weaving dreams for the virtual sky</li></ul>
