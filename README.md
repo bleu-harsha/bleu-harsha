@@ -44,6 +44,7 @@
     <li><b>Handheld Computer Emulating Retro Computer</b></li>
     <li><b>physics engine</b></li>
     <li><b>doom(1993) from scratch</b></li>
+    <li><b>operating system thats extremely low end,linux based</b></li>
   </ul>
 
   <hr style="border: 1px solid #00bfff;">
