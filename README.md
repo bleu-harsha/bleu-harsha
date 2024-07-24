@@ -40,8 +40,8 @@
 
   <h2 style="color: #00bfff;">Projects I plan on doing:</h2>
   <ul style="list-style: none; padding: 0;">
-    <li><b>Binary Watch (Kibou)</b></li>
-    <li><b>Handheld Computer Emulating Retro Computer</b></li>
+    <li><b>Neo and Eve,a reinforced learning project</b></li>
+    <li><b>text based Matrix game</b></li>
     <li><b>physics engine</b></li>
     <li><b>doom(1993) from scratch</b></li>
     <li><b>operating system thats extremely low end,linux based</b></li>
