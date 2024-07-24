@@ -33,13 +33,13 @@
   <h2 style="color: #00bfff;">The projects I have done</h2>
   <ul style="list-style: none; padding: 0;">
     <li><b>clouds-hub (a USB hub)</b></li>
+    <li><b>PCB Business Card</b></li>
   </ul>
 
   <hr style="border: 1px solid #00bfff;">
 
   <h2 style="color: #00bfff;">Projects I plan on doing:</h2>
   <ul style="list-style: none; padding: 0;">
-    <li><b>PCB Business Card</b></li>
     <li><b>Binary Watch (Kibou)</b></li>
     <li><b>Handheld Computer Emulating Retro Computer</b></li>
     <li><b>physics engine</b></li>
