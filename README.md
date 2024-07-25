@@ -41,7 +41,7 @@
   <h2 style="color: #00bfff;">Projects I plan on doing:</h2>
   <ul style="list-style: none; padding: 0;">
     <li><b>Neo and Eve,a reinforced learning project</b></li>
-    <li><b>text based Matrix game</b></li>
+    <li><b> Sisyphean player</b></li>
     <li><b>physics engine</b></li>
     <li><b>doom(1993) from scratch</b></li>
     <li><b>operating system thats extremely low end,linux based</b></li>
@@ -50,6 +50,7 @@
   <hr style="border: 1px solid #00bfff;">
   
   <p>🚀 Join me as I navigate the enchanting realm of bytes and beliefs—where every line of code is a verse in the epic of creation.</p>
+  <hr>
 <img src="https://github.com/user-attachments/assets/90259886-e1a0-46ac-85c2-37b069a1c85f" alt="border" style="display: block; margin: 0 auto;">
 </div>
 
