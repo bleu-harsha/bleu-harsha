@@ -51,6 +51,5 @@
   
   <p>🚀 Join me as I navigate the enchanting realm of bytes and beliefs—where every line of code is a verse in the epic of creation.</p>
   <hr>
-<img src="https://github.com/user-attachments/assets/90259886-e1a0-46ac-85c2-37b069a1c85f" alt="border" style="display: block; margin: 0 auto;">
 </div>
 
