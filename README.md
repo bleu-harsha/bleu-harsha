@@ -41,8 +41,8 @@
   <h2 style="color: #00bfff;">Projects I plan on doing:</h2>
   <ul style="list-style: none; padding: 0;">
     <li><b>Neo and Eve,a reinforced learning project</b></li>
-    <li><b> Sisphean player</b></li>
-    <li><b>physics engine</b></li>
+    <li><b>Sisphean player</b></li>
+    <li><b>a video game that mainly focuses on graohucs and optimisation</b></li>
     <li><b>doom(1993) from scratch</b></li>
     <li><b>operating system thats extremely low end,linux based</b></li>
   </ul>
