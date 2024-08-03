@@ -5,21 +5,19 @@
 
   <p>👋 Hello, I'm a teenager who loves tinkering with electronics, ranging from delving into CPU architecture to making a custom game engine. This GitHub page mainly covers my progress in this dream of a world.</p>
 
-
   <hr style="border: 1px solid #00bfff;">
 
   <p>
-   actual about me:<br>
+    actual about me:<br>
     <ul style="list-style: none; padding: 0;">
-    <li>classic <b>INFP-T</li></b>
-   <li>a random teenager from bengaluru,weaving dreams for the virtual sky</li></ul>
-   <br>
-   gotten tired i have ever,from looking out the window,to dream the clouds
-   <br>
-  
+      <li>classic <b>INFP-T</b></li>
+      <li>a random teenager from bengaluru, weaving dreams for the virtual sky</li>
+    </ul>
+    <br>
+    gotten tired i have ever, from looking out the window, to dream the clouds
+    <br>
   </p>
 
-  <hr style="border: 1px solid #00bfff;">
 
   <h2 style="color: #00bfff;">I'm currently learning:</h2>
   <ul style="list-style: none; padding: 0;">
@@ -30,7 +28,7 @@
     <li><b>CAD</b></li>
   </ul>
   <hr style="border: 1px solid #00bfff;">
-  <h2 style="color: #00bfff;">The projects I have done</h2>
+  <h2 style="color: #00bfff;">The projects I have done:</h2>
   <ul style="list-style: none; padding: 0;">
     <li><b>clouds-hub (a USB hub)</b></li>
     <li><b>PCB Business Card</b></li>
@@ -40,11 +38,11 @@
 
   <h2 style="color: #00bfff;">Projects I plan on doing:</h2>
   <ul style="list-style: none; padding: 0;">
-    <li><b>Neo and Eve,a reinforced learning project</b></li>
+    <li><b>Neo and Eve, a reinforced learning project</b></li>
     <li><b>Sisphean player</b></li>
-    <li><b>a video game that mainly focuses on graphics and optimisation</b></li>
-    <li><b>doom(1993) from scratch</b></li>
-    <li><b>operating system thats extremely low end,linux based</b></li>
+    <li><b>A video game that mainly focuses on graphics and optimization</b></li>
+    <li><b>Doom (1993) from scratch</b></li>
+    <li><b>An operating system that's extremely low end, Linux-based</b></li>
   </ul>
 
   <hr style="border: 1px solid #00bfff;">
