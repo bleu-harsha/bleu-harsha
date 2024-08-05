@@ -32,6 +32,7 @@
   <ul style="list-style: none; padding: 0;">
     <li><b>clouds-hub (a USB hub)</b></li>
     <li><b>PCB Business Card</b></li>
+    <li><b>Sisphean player</b></li>
   </ul>
 
   <hr style="border: 1px solid #00bfff;">
@@ -39,7 +40,6 @@
   <h2 style="color: #00bfff;">Projects I plan on doing:</h2>
   <ul style="list-style: none; padding: 0;">
     <li><b>Neo and Eve, a reinforced learning project</b></li>
-    <li><b>Sisphean player</b></li>
     <li><b>A video game that mainly focuses on graphics and optimization</b></li>
     <li><b>Doom (1993) from scratch</b></li>
     <li><b>An operating system that's extremely low end, Linux-based</b></li>
