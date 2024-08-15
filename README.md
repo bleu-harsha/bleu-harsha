@@ -25,7 +25,7 @@ gotten tired i have ever, from looking out the window, to dream the clouds
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=blue-clouds4&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-readme-streak-stats.herokuapp.com/?user=blue-clouds4&theme=nord&hide_border=false)<br/>
 
 ---
 
