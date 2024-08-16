@@ -39,7 +39,7 @@ gotten tired i have ever, from looking out the window, to dream the clouds
 - **An operating system that's extremely low end, Linux-based**
 
 ---
-
+![ineedsleep](https://spotify-recently-played-readme.vercel.app/api?user=31rr6t4dkzudpagnm7cgan5itv3q)
 🚀 Join me as I navigate the enchanting realm of bytes and beliefs—where every line of code is a verse in the epic of creation.
 
 </div>
