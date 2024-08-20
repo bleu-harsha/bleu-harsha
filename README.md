@@ -26,10 +26,10 @@ gotten tired i have ever, from looking out the window, to dream the clouds
 ---
 
 ## github stats📊:
-![blue-clouds4's Stats](https://github-readme-stats.vercel.app/api?username=blue-clouds4&theme=nord&show_icons=true&hide_border=false&count_private=true)
+![blue-clouds4's Stats](https://github-readme-stats.vercel.app/api?username=blue-clouds4&theme=github_dark&show_icons=true&hide_border=false&count_private=true)
 <br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=blue-clouds4&theme=nord&hide_border=false)<br>
-![blue-clouds4's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blue-clouds4&theme=nord&show_icons=true&hide_border=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=blue-clouds4&theme=github_dark&hide_border=false)<br>
+![blue-clouds4's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blue-clouds4&theme=github_dark&show_icons=true&hide_border=false&layout=compact)
 ---
 
 ## Projects I plan on doing:
