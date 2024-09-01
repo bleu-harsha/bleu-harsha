@@ -42,3 +42,4 @@ gotten tired i have ever, from looking out the window, to dream the clouds
 🚀 Join me as I navigate the enchanting realm of bytes and beliefs—where every line of code is a verse in the epic of creation.
 
 </div>
+currently dead,becuase exams and all
