@@ -19,6 +19,8 @@ gotten tired i have ever, from looking out the window, to dream the clouds
 - **Java**
 - **C++**
 - **C**
+- **HTML**
+- **CSS**
 
 ---
 
