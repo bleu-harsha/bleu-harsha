@@ -8,20 +8,17 @@
 
 ---
 
-**actual about me:**
-
 - classic **INFP-T**
 - a random teenager from bengaluru, weaving dreams for the virtual sky
 
 gotten tired i have ever, from looking out the window, to dream the clouds
 
-## I'm currently learning:
+## Languages I'm familiar with:
 
 - **Assembly**
 - **Java**
 - **C++**
 - **C**
-- **CAD**
 
 ---
 
@@ -31,7 +28,7 @@ gotten tired i have ever, from looking out the window, to dream the clouds
 ![blue-clouds4's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blue-clouds4&theme=github_dark&show_icons=true&hide_border=false&layout=compact)
 ---
 
-## Projects I plan on doing:
+## my dream projects:
 
 - **Neo and Eve, a reinforced learning project**
 - **A video game that mainly focuses on graphics and optimization**
