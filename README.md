@@ -12,6 +12,5 @@ a 16 year old into tech trying to do something different.
 <br>
 ![blue-clouds4's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blue-clouds4&theme=github_dark&show_icons=true&hide_border=false&layout=compact)
 ---
-## upcoming major projects:
 (i'm losing my sanity)
 </div>
