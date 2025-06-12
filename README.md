@@ -8,9 +8,9 @@ hey I'm blue :D
 a 16 year old into tech trying to do something different.
 ---
 ## github stats:
-![blue-clouds4's Stats](https://github-readme-stats.vercel.app/api?username=blue-clouds4&theme=github_dark&show_icons=true&hide_border=false&count_private=true)
+![bleu-harsha's Stats](https://github-readme-stats.vercel.app/api?username=bleu-harsha&theme=github_dark&show_icons=true&hide_border=false&count_private=true)
 <br>
-![blue-clouds4's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blue-clouds4&theme=github_dark&show_icons=true&hide_border=false&layout=compact)
+![bleu-harsha's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bleu-harsha&theme=github_dark&show_icons=true&hide_border=false&layout=compact)
 ---
 you'll love [my youtube page](https://www.youtube.com/@unemployedblue)
 <br>
