@@ -1,6 +1,6 @@
 ![Banner](help.gif)
 
-# BLUE_CLOUDS
+# BLEU
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=bleu-harsha&label=Profile%20views&color=0e75b6&style=flat" />
@@ -9,8 +9,8 @@
  </a>
 </p>
 
-hey I'm blue :D  
-a 16 year old into tech trying to do something different.
+hey I'm bleu :D  
+a 17 year old into tech trying to do something different.
 ---
 
 ## github stats:
