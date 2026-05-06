@@ -16,8 +16,6 @@ a 17 year old into tech trying to do something different.
 ## github stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bleu-harsha&theme=github_dark&show_icons=true&hide_border=false&count_private=true" width="47%" height="200px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bleu-harsha&theme=github_dark&show_icons=true&hide_border=false&layout=compact" width="47%" height="200px" />
  <img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=899&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=github_dark" width = "100%" height = "200px" />
 </p>
 
